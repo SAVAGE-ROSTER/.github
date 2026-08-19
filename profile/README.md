@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/crown-s-gold.png" height="210" alt="The SAVAGE crown-S mark in gold" />
+<img src="assets/s-diamond.png" height="210" alt="The SAVAGE crown-S mark in gold" />
 
 # SAVAGE ROSTER
 
