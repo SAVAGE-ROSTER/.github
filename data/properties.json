@@ -1,0 +1,67 @@
+{
+  "_comment": "SOURCE OF TRUTH for this org's roster. Add a property = add one object to items[], then push (the Action rebuilds profile/README.md). Fields: name, domain, url (null = no public door), tag, status (live|building|soon|private), src ({label, url} or null; private repos carry no url).",
+  "statuses": {
+    "live": {
+      "dot": "🟢",
+      "label": "Live"
+    },
+    "building": {
+      "dot": "🟡",
+      "label": "Building"
+    },
+    "soon": {
+      "dot": "🔵",
+      "label": "Soon"
+    },
+    "private": {
+      "dot": "🔒",
+      "label": "Private"
+    }
+  },
+  "items": [
+    {
+      "name": "SAVAGE CEO",
+      "domain": "savage.ceo",
+      "url": "https://www.savage.ceo",
+      "tag": "The Architect",
+      "status": "live",
+      "src": {
+        "label": "SAVAGE-CEO",
+        "url": null
+      }
+    },
+    {
+      "name": "Spanish Bunny",
+      "domain": "spanishbunny.com",
+      "url": "https://spanishbunny.com",
+      "tag": "Runway & swim",
+      "status": "live",
+      "src": {
+        "label": "SPANISH-BUNNY",
+        "url": null
+      }
+    },
+    {
+      "name": "Onyx",
+      "domain": "thebengal.zone",
+      "url": "https://www.thebengal.zone",
+      "tag": "Seal mink Bengal",
+      "status": "live",
+      "src": {
+        "label": "ONYX-THE-SAVAGE",
+        "url": null
+      }
+    },
+    {
+      "name": "Talent Template",
+      "domain": "the stamp",
+      "url": null,
+      "tag": "Every future face",
+      "status": "private",
+      "src": {
+        "label": "TALENT-TEMPLATE",
+        "url": null
+      }
+    }
+  ]
+}
