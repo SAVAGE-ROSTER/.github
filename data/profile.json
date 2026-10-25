@@ -1,0 +1,66 @@
+{
+  "kind": "org",
+  "login": "SAVAGE-ROSTER",
+  "hero": "hero-savage-roster.svg",
+  "brand": "SAVAGE ROSTER",
+  "tagline": "THE TALENT OF THE SAVAGE HOUSE",
+  "blurb": "A deliberately short roster — run with clean terms and sharper standards.",
+  "duo": [
+    {
+      "name": "THE ARCHITECT",
+      "nameSvg": "name-the-architect.svg",
+      "img": "architect.webp",
+      "alt": "Niko — The Architect",
+      "caption": "PRODUCER · ENGINEER · THE ONE WHO SHIPS"
+    },
+    {
+      "name": "ONYX",
+      "nameSvg": "name-onyx.svg",
+      "img": "onyx.webp",
+      "alt": "Onyx — the Bengal",
+      "caption": "CHIEF QUALITY BENGAL · STUDIO ENFORCER"
+    }
+  ],
+  "rosterTitle": "The roster",
+  "lastCol": "Build",
+  "law": [
+    "A SHORT ROSTER · CLEAN TERMS · SHARPER STANDARDS",
+    "ONE FORM · ONE DESK · A REPLY IN 48 HOURS"
+  ],
+  "footer": "REPRESENTED AND RUN BY SAVAGE STUDIO · BOOK&nbsp;→&nbsp;<a href=\"https://savagestud.io/booking\">savagestud.io/booking</a>",
+  "signature": "SAVAGE ROSTER",
+  "house": [
+    {
+      "name": "SAVAGE CEO",
+      "login": "savageceo"
+    },
+    {
+      "name": "SAVAGE STUDIO",
+      "login": "SAVAGE-STUDIO-INC"
+    },
+    {
+      "name": "SAVAGE ROSTER",
+      "login": "SAVAGE-ROSTER"
+    },
+    {
+      "name": "SAVAGE SUITE",
+      "login": "SAVAGE-SUITE"
+    },
+    {
+      "name": "SAVAGE CITY",
+      "login": "SAVAGE-CITY"
+    },
+    {
+      "name": "SAVAGE BUNNY",
+      "login": "SAVAGE-BUNNY"
+    },
+    {
+      "name": "SAVAGE CLIENTS",
+      "login": "SAVAGE-CLIENTS"
+    },
+    {
+      "name": "GHOST CROWN",
+      "login": "GHOST-CROWN"
+    }
+  ]
+}
