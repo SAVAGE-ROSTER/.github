@@ -1,10 +1,13 @@
 {
+  "_comment": "Layout for this profile. Shared by the house: the foil, the face, the diamond rule, the plaque. Unique to this page: hero (its own motif), duo ([] hides the portraits), wall (title + columns of build tiles; the tiles come from each item's logo in properties.json), columns (table headers), lawFrame (double|heavy|light|round|pillar|dashed|ledger|prompt), mark (swap in your own mark: drop it in assets/ and point here; markAlt is its alt text).",
   "kind": "org",
   "login": "SAVAGE-ROSTER",
-  "hero": "hero-savage-roster.svg",
+  "hero": "hero-savage-roster-marquee.svg",
   "brand": "SAVAGE ROSTER",
   "tagline": "THE TALENT OF THE SAVAGE HOUSE",
   "blurb": "A deliberately short roster — run with clean terms and sharper standards.",
+  "mark": "s-diamond.png",
+  "markAlt": "The SAVAGE crown-S mark",
   "duo": [
     {
       "name": "THE ARCHITECT",
@@ -21,8 +24,22 @@
       "caption": "CHIEF QUALITY BENGAL · STUDIO ENFORCER"
     }
   ],
+  "wall": {
+    "title": {
+      "svg": "title-the-faces.svg",
+      "alt": "THE FACES"
+    },
+    "cols": 4
+  },
   "rosterTitle": "The roster",
-  "lastCol": "Build",
+  "columns": [
+    "Talent",
+    "Known for",
+    "Live at",
+    "Status",
+    "Repo"
+  ],
+  "lawFrame": "round",
   "law": [
     "A SHORT ROSTER · CLEAN TERMS · SHARPER STANDARDS",
     "ONE FORM · ONE DESK · A REPLY IN 48 HOURS"
