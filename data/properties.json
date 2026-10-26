@@ -1,5 +1,5 @@
 {
-  "_comment": "SOURCE OF TRUTH for this org's roster. Add a property = add one object to items[], then push (the Action rebuilds profile/README.md). Fields: name, domain, url (null = no public door), tag, status (live|building|soon|private), src ({label, url} or null; private repos carry no url).",
+  "_comment": "SOURCE OF TRUTH for this roster. Add a build = add one object to items[], then push (the Action rebuilds the README). Fields: name, domain, url (null = no public door), tag, status (live|building|soon|private), src ({label, url} or null; private repos carry no url), logo (the build's tile on the wall: a file under assets/. It ships as a placeholder with the name set in MBF Royal; overwrite that file with the real logo, same name, on a 5:3 canvas such as 1500x900, so the wall stays even. A PNG works too: change the extension here. Omit logo to keep a build off the wall).",
   "statuses": {
     "live": {
       "dot": "🟢",
@@ -28,7 +28,8 @@
       "src": {
         "label": "SAVAGE-CEO",
         "url": null
-      }
+      },
+      "logo": "logos/savage-ceo.svg"
     },
     {
       "name": "Spanish Bunny",
@@ -39,7 +40,8 @@
       "src": {
         "label": "SPANISH-BUNNY",
         "url": null
-      }
+      },
+      "logo": "logos/spanish-bunny.svg"
     },
     {
       "name": "Onyx",
@@ -50,7 +52,8 @@
       "src": {
         "label": "ONYX-THE-SAVAGE",
         "url": null
-      }
+      },
+      "logo": "logos/onyx.svg"
     },
     {
       "name": "Talent Template",
@@ -61,7 +64,8 @@
       "src": {
         "label": "TALENT-TEMPLATE",
         "url": null
-      }
+      },
+      "logo": "logos/talent-template.svg"
     }
   ]
 }

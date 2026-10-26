@@ -9,7 +9,7 @@
 
 <div align="center">
 
-<img src="../assets/hero-savage-roster.svg" width="640" alt="SAVAGE ROSTER — THE TALENT OF THE SAVAGE HOUSE" />
+<img src="../assets/hero-savage-roster-marquee.svg" width="640" alt="SAVAGE ROSTER — THE TALENT OF THE SAVAGE HOUSE" />
 
 <em>A deliberately short roster — run with clean terms and sharper standards.</em>
 
@@ -30,11 +30,36 @@
   </tr>
 </table>
 
+<br/>
+
+<p><img src="../assets/title-the-faces.svg" height="30" alt="THE FACES" /></p>
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="220">
+      <a href="https://www.savage.ceo"><img src="../assets/logos/savage-ceo.svg" width="196" alt="SAVAGE CEO" /></a><br/>
+      <sub>The Architect</sub>
+    </td>
+    <td align="center" valign="top" width="220">
+      <a href="https://spanishbunny.com"><img src="../assets/logos/spanish-bunny.svg" width="196" alt="Spanish Bunny" /></a><br/>
+      <sub>Runway & swim</sub>
+    </td>
+    <td align="center" valign="top" width="220">
+      <a href="https://www.thebengal.zone"><img src="../assets/logos/onyx.svg" width="196" alt="Onyx" /></a><br/>
+      <sub>Seal mink Bengal</sub>
+    </td>
+    <td align="center" valign="top" width="220">
+      <img src="../assets/logos/talent-template.svg" width="196" alt="Talent Template" /><br/>
+      <sub>Every future face</sub>
+    </td>
+  </tr>
+</table>
+
 <img src="../assets/rule.svg" width="520" alt="" />
 
 ### The roster
 
-| Property | Type | Live at | Status | Build |
+| Talent | Known for | Live at | Status | Repo |
 |:--|:--|:--|:--:|:--:|
 | **SAVAGE CEO** | The Architect | [savage.ceo ↗](https://www.savage.ceo) | 🟢 Live | `SAVAGE-CEO` |
 | **Spanish Bunny** | Runway & swim | [spanishbunny.com ↗](https://spanishbunny.com) | 🟢 Live | `SPANISH-BUNNY` |
@@ -46,10 +71,10 @@
 <br/>
 
 ```text
-╔══════════════════════════════════════════════════════╗
-║   A SHORT ROSTER · CLEAN TERMS · SHARPER STANDARDS   ║
-║      ONE FORM · ONE DESK · A REPLY IN 48 HOURS       ║
-╚══════════════════════════════════════════════════════╝
+╭──────────────────────────────────────────────────────╮
+│   A SHORT ROSTER · CLEAN TERMS · SHARPER STANDARDS   │
+│      ONE FORM · ONE DESK · A REPLY IN 48 HOURS       │
+╰──────────────────────────────────────────────────────╯
 ```
 
 <br/>
